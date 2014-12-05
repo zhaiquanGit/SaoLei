@@ -1,4 +1,4 @@
-//
+﻿//
 //  VC_SetUp.m
 //  SaoLei
 //
@@ -25,6 +25,9 @@
     _textY.delegate = self;
     _textL.delegate = self;
     
+    
+
+    // COCOCOOCO
     
     _textX.keyboardAppearance = UIKeyboardTypeNumberPad;
     
